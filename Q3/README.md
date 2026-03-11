@@ -15,4 +15,4 @@ Missing Number = Expected Sum - Actual Sum
 
 # Run the program using:
 
-node missingNumber.js
+node missing-number.js
